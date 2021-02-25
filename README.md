@@ -1,22 +1,21 @@
-### Hi there 👋
+<div align="center">
 
-## ✉️ Find me on:
+### Hi there, I'm [Mohammed](https://medeljadi.pyrhonanywhere.com) 👋 This is my 42 Profile Card
+
+<img align="center" id="profile" alt="GIF" height="350px" src="https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&email=hide&login=mel-jadi" />
+
+</div>
 
 
-<p align="center">
- <a href="https://medeljadi.pythonanywhere.com/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Portfolio" height="40" style="vertical-align:top; margin:4px"> </a>
- <a href="https://linkedin.com/in/mohammed-el-jadi-4a649a193/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:eljadi.med@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+<div align="center">
+<p>
+  <span style="min-width: 500px" ><img width="50%" src="https://github-readme-stats.vercel.app/api?username=MedJD&show_icons=true&theme=radical" /></span>
+  <span style="min-width: 500px" ><img width="42%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MedJD&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /></span>
 </p>
 
-<br />
 
-## 🧰 Languages and Tools:
-<p align="center">
- 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" alt="Django" height="40" style="vertical-align:top; margin:4px">
+![VisitorCount](https://profile-counter.glitch.me/{MedJD}/count.svg)
 
-</p>
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MedJD&theme=tokyonight)
+#### [My portfolio](https://medeljadi.pyrhonanywhere.com)
