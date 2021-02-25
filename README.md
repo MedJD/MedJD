@@ -1,6 +1,6 @@
 <div align="center">
 
-### Hi there, I'm [Mohammed](https://medeljadi.pyrhonanywhere.com) 👋 This is my 42 Profile Card
+### Hi there, I'm [Mohammed](https://medeljadi.pythonanywhere.com) 👋 This is my 42 Profile Card
 
 <img align="center" id="profile" alt="GIF" height="350px" src="https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&email=hide&login=mel-jadi" />
 
@@ -14,4 +14,4 @@
 
 </div>
 
-#### [My portfolio](https://medeljadi.pyrhonanywhere.com)
+#### [My portfolio](https://medeljadi.pythonanywhere.com)
